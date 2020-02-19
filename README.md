@@ -1,3 +1,3 @@
 # JPAProjectV1
 
-Importer la base de données demojpa.sql dans MySQL
+Télécharger et importer la base de données demojpa.sql dans MySQL
